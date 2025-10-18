@@ -155,9 +155,8 @@ class Bot:
         windowW = 1920
         windowH = 1080
 
-        #browser = Browser('https://en14.forgeofempires.com/game/index', windowW, windowH, 'Game', 'The Right King', 'arvi1690@Game', 'Odhrorvar')
-        browser = Browser('https://en14.forgeofempires.com/game/index', windowW, windowH, 'Game', 'MadMax The Great', 'arvi1690@Game', 'Odhrorvar')
-        #browser = Browser('https://en14.forgeofempires.com/game/index', windowW, windowH, 'Game', 'MadMax The Great', 'arvi1690@Game', 'Mount Killmore')
+        browser = Browser('https://en14.forgeofempires.com/game/index', windowW, windowH, 'Game', '<YOUR_USERN_NAME', '<YOUR_PASSWORDS>', '<WORLD_NAME')  
+        #                                                                                  windowName, userName, userPassword, world
         browser.openSite()
 
         sleep(10)
