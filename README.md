@@ -3,7 +3,7 @@ This project is a custom RPA developed to show how RPA can be used even to play 
 It uses Selenium libraries, OpenCV, Numpy some the limitatons are:
 1) the images to match (find needle) must be same resolution the game is played
 2) any changes to the UI will make the RPA to fail as it's looking positions on the screen.
-3) similar techiniques were used on the past using screengrab techniques for mainframe or applications which didn't have APIs for interaction, all they had was the UI.
+3) I used on the past using screengrab techniques for mainframe or applications which didn't have APIs for interaction, all they had was the UI.
 Generate a comprehensive readme file with for this project and looking for the benefits and issues/limitations
 4) custom PCB was used on this project and designed using EasyEDA designed by Adilson Dias, all components were soldered by Adilson Dias
 ---
