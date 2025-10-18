@@ -804,14 +804,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 📧 Contact & Support
-
-- **Issues**: [GitHub Issues](https://github.com/yourusername/visual-automation-framework/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/visual-automation-framework/discussions)
-- **Email**: your.email@example.com
-
----
-
 ## 📊 Project Stats
 
 ![Lines of Code](https://img.shields.io/badge/Lines%20of%20Code-~2000-blue)
